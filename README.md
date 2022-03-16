@@ -9,4 +9,4 @@
 ## Web Back-end:
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
 
-<a href="https://wakatime.com/badge/user/7514b0e5-9034-4d37-a253-58a5ec9b8a2f/project/5ef3a984-27a1-4892-8b29-a86b1ea2d66b"><img src="https://wakatime.com/badge/user/7514b0e5-9034-4d37-a253-58a5ec9b8a2f/project/5ef3a984-27a1-4892-8b29-a86b1ea2d66b.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@7514b0e5-9034-4d37-a253-58a5ec9b8a2f"><img src="https://wakatime.com/badge/user/7514b0e5-9034-4d37-a253-58a5ec9b8a2f.svg" alt="Total time coded since Mar 14 2022" /></a>
