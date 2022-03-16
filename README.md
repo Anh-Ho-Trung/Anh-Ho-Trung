@@ -8,3 +8,5 @@
 
 ## Web Back-end:
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
+
+<figure><embed src="https://wakatime.com/share/@7514b0e5-9034-4d37-a253-58a5ec9b8a2f/929f3686-8f08-4415-a84d-f8264e2af418.svg"></embed></figure>
