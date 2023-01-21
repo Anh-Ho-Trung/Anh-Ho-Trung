@@ -1,1 +1,0 @@
-window.__TRUNGANHPORTFOLIO_INITIAL_STATE__=(function(a){return {staticAssetsBase:"\u002FAnh-Ho-Trung\u002F_nuxt\u002Fstatic\u002F1669545968",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002FAnh-Ho-Trung\u002F",assetsPath:"\u002FAnh-Ho-Trung\u002F_nuxt\u002F",cdnURL:a}},globalRefs:{}}}(null));
